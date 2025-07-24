@@ -1,6 +1,6 @@
 # Hey, I’m Pavel — QA Engineer 🔍
 
-I have 3+ years of experience testing mobile and web applications. I’ve built QA processes from scratch, worked deeply with APIs, analytics, logs, and complex user scenarios. My background includes fintech, marketplaces, and highload systems. Currently, I'm focusing on automation (Pytest, Java theory, CI).
+I have 3+ years of experience testing mobile and web applications. I’ve built QA processes from scratch, worked deeply with APIs, analytics, logs, and complex user scenarios. My background includes fintech, marketplaces, SaaS platforms, and highload systems. Currently, I'm focusing on automation (Pytest, Java theory, CI).
 
 ---
 
@@ -14,12 +14,14 @@ I have 3+ years of experience testing mobile and web applications. I’ve built 
 ---
 
 ## 📂 My Projects:
-- 🔹 [api-testing-demo](#) — Postman collection + bugs + docs
-- 🔹 [ui-checklists-cases](#) — UI checklists and bug reports for a demo platform
-- 🔹 [pytest-api-tests](#) — Pytest automation with REST API
-- 🔹 [china-localization-qa](#) — localization test cases for the Chinese market
+- 🔹 [fintech-mobile-qa-demo](#) — credit app: loans, repayment, events, analytics (TestFlight, Postman, logs)
+- 🔹 [marketplace-skin-trading-qa](#) — CS2/Dota2 asset trading: finance logic, transactions, localization for CN
+- 🔹 [saas-docflow-testing](#) — B2B platform with 1C integration: queues, edge cases, document control
+- 🔹 [mobile-nda-app](#) — Mobile product under NDA: API flows, error handling, analytics validation
+- 🔹 [insurance-aggregator-simulation](#) — web clone of sravni.ru: filters, requests, flow logic testing
+- 🔹 [horoscope-sales-platform](#) — astrology content SaaS: payments, subscriptions, localization
 
-> Repositories will be added gradually. Each is well-documented and based on real QA experience.
+> Each repo will be published gradually. All projects are based on real QA experience with real cases and structured documentation.
 
 ---
 
