@@ -1,29 +1,29 @@
-# Салют, я Паша — QA-инженер 🔍
+# Hey, I’m Pavel — QA Engineer 🔍
 
-У меня 3+ года опыта в тестировании мобильных и веб-приложений. Я выстраивал QA-процессы с нуля, глубоко работаю с API, аналитикой, логами и пользовательскими сценариями. Есть опыт в финтехе, маркетплейсах, highload-проектах. Сейчас развиваюсь в сторону автоматизации (Pytest, Java теория, CI).
-
----
-
-## 🧰 Навыки и инструменты:
-- **Тестирование:** мобильное (iOS/Android), API (REST, GraphQL), локализация, регрессия, интеграция, аналитика, сценарное
-- **Инструменты:** Postman, Charles, Proxyman, Kibana, AppMetrica, Appsflyer, Android Studio, TestFlight, DevTools
-- **Базы данных:** SQL, MongoDB, DBeaver
-- **Автоматизация:** Python + Pytest (начальный уровень), Git, CI/CD (Jenkins, GitHub Actions)
-- **Документация:** чек-листы, кейсы, баг-репорты, тест-планы
+I have 3+ years of experience testing mobile and web applications. I’ve built QA processes from scratch, worked deeply with APIs, analytics, logs, and complex user scenarios. My background includes fintech, marketplaces, and highload systems. Currently, I'm focusing on automation (Pytest, Java theory, CI).
 
 ---
 
-## 📂 Мои проекты:
-- 🔹 [api-testing-demo](#) — коллекция Postman + баги + документация
-- 🔹 [ui-checklists-cases](#) — чек-листы и баг-репорты по демо-платформе
-- 🔹 [pytest-api-tests](#) — автотесты на Pytest с REST API
-- 🔹 [china-localization-qa](#) — кейсы по локализации продукта под китайский рынок
-
-> Репозитории будут выкладываться постепенно. Каждый — оформлен с пояснениями и реальным содержимым.
+## 🧰 Skills & Tools:
+- **Testing:** Mobile (iOS/Android), API (REST, GraphQL), Localization, Regression, Integration, Analytics, End-to-End
+- **Tools:** Postman, Charles, Proxyman, Kibana, AppMetrica, Appsflyer, Android Studio, TestFlight, DevTools
+- **Databases:** SQL, MongoDB, DBeaver
+- **Automation:** Python + Pytest (basic level), Git, CI/CD (Jenkins, GitHub Actions)
+- **Documentation:** Checklists, Test Cases, Bug Reports, Test Plans
 
 ---
 
-## 📬 Связаться со мной:
+## 📂 My Projects:
+- 🔹 [api-testing-demo](#) — Postman collection + bugs + docs
+- 🔹 [ui-checklists-cases](#) — UI checklists and bug reports for a demo platform
+- 🔹 [pytest-api-tests](#) — Pytest automation with REST API
+- 🔹 [china-localization-qa](#) — localization test cases for the Chinese market
+
+> Repositories will be added gradually. Each is well-documented and based on real QA experience.
+
+---
+
+## 📬 Contact Me:
 - Telegram: [@mugen_s](https://t.me/mugen_s)
 - Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
 - LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
