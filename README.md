@@ -9,7 +9,7 @@ I have 3+ years of experience testing mobile and web applications. I’ve built 
 - **Tools:** Postman, Charles, Proxyman, Kibana, AppMetrica, Appsflyer, Android Studio, TestFlight, DevTools
 - **Databases:** SQL, MongoDB, DBeaver
 - **Automation:** Python + Pytest (basic level), Git, CI/CD (Jenkins, GitHub Actions)
-- **Documentation:** Checklists, Test Cases, Bug Reports, Test Plans
+- **Documentation:** Checklists, Test Cases, Bug Reports, Test Plans, Metrics
 
 ---
 
