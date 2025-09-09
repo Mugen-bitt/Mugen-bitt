@@ -29,3 +29,5 @@ I have 3+ years of experience testing mobile and web applications. I’ve built 
 - Telegram: [@mugen_s](https://t.me/mugen_s)
 - Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
 - LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
+
+## ⚠️ Note: This repository is a work in progress. Some parts may be incomplete or missing documentation.
