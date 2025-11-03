@@ -20,7 +20,7 @@ Additionally, develop personal side projects in Python to enhance skills in test
 ---
 
 ## 📂 My Projects:
-- 🔹 [fintech-web-qa-demo](#) — Loan management platform: tested core credit flows — creation, repayment, and analytics events. Used Postman, Rest Assured, Allure, and log validation for backend APIs.
+- 🔷 [fintech-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-mobile-qa-demo) — Loan management platform: tested core credit flows — creation, repayment, and analytics events. Used Postman, Rest Assured, Allure, and log validation for backend APIs.
 - 🔹 [marketplace-skin-trading-qa](#) — Gaming asset trading marketplace (CS2/Dota2): verified transaction logic, wallet operations, and localization for CN region. Focused on API integrity and fraud prevention.
 - 🔹 [saas-docflow-testing](#) — Enterprise SaaS platform integrated with 1C: tested API queues, document exchange, and edge cases. Used Swagger, Postman, and SQL for backend data validation.
 - 🔹 [mobile-nda-app](#) — Mobile fintech app (under NDA): validated API flows, analytics event tracking, and error handling for loan operations across iOS and Android.
