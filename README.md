@@ -1,25 +1,30 @@
 # Hey, I’m Pavel — QA Engineer 🔍
 
-I have 3+ years of experience testing mobile and web applications. I’ve built QA processes from scratch, worked deeply with APIs, analytics, logs, and complex user scenarios. My background includes fintech, marketplaces, SaaS platforms, and highload systems. Currently, I'm focusing on automation (Pytest, Java theory, CI).
+QA Engineer with 4 years of experience in testing web services and APIs.
+Combine manual testing with automation using the Java stack.
+Participated in configuring CI/CD and integrating automated tests, helping to stabilize regressions and speed up releases.
+Additionally, develop personal side projects in Python to enhance skills in test automation and backend logic understanding.
 
 ---
 
 ## 🧰 Skills & Tools:
-- **Testing:** Mobile (iOS/Android), API (REST, GraphQL), Localization, Regression, Integration, Analytics, End-to-End
-- **Tools:** Postman, Charles, Proxyman, Kibana, AppMetrica, Appsflyer, Android Studio, TestFlight, DevTools
-- **Databases:** SQL, MongoDB, DBeaver
-- **Automation:** Python + Pytest (basic level), Git, CI/CD (Jenkins, GitHub Actions)
-- **Documentation:** Checklists, Test Cases, Bug Reports, Test Plans, Metrics
+	•	Testing: Web (UI/API), Regression, Smoke, Integration, End-to-End, Performance
+	•	Automation: Java, Selenide, Selenium, Rest Assured, JUnit5, Maven, Allure, GitLab CI/CD
+	•	API & Tools: Postman, Swagger, Charles Proxy, Fiddler, Insomnia, Burp Suite
+	•	Databases: PostgreSQL, SQL, DBeaver
+	•	Monitoring & DevOps: Kibana, Grafana, Kubernetes, Docker (basic), Jenkins (basic understanding)
+	•	Version Control: Git, Bitbucket
+	•	Documentation: Test Cases, Checklists, Bug Reports, Test Plans, Test Metrics
+	•	Additional: Bash, JSON/XML validation, Security & Network traffic testing
 
 ---
 
 ## 📂 My Projects:
-- 🔹 [fintech-mobile-qa-demo](#) — credit app: loans, repayment, events, analytics (TestFlight, Postman, logs)
-- 🔹 [marketplace-skin-trading-qa](#) — CS2/Dota2 asset trading: finance logic, transactions, localization for CN
-- 🔹 [saas-docflow-testing](#) — B2B platform with 1C integration: queues, edge cases, document control
-- 🔹 [mobile-nda-app](#) — Mobile product under NDA: API flows, error handling, analytics validation
-- 🔹 [insurance-aggregator-simulation](#) — web clone of sravni.ru: filters, requests, flow logic testing
-- 🔹 [horoscope-sales-platform](#) — astrology content SaaS: payments, subscriptions, localization
+- 🔹 [fintech-web-qa-demo](#) — Loan management platform: tested core credit flows — creation, repayment, and analytics events. Used Postman, Rest Assured, Allure, and log validation for backend APIs.
+- 🔹 [marketplace-skin-trading-qa](#) — Gaming asset trading marketplace (CS2/Dota2): verified transaction logic, wallet operations, and localization for CN region. Focused on API integrity and fraud prevention.
+- 🔹 [saas-docflow-testing](#) — Enterprise SaaS platform integrated with 1C: tested API queues, document exchange, and edge cases. Used Swagger, Postman, and SQL for backend data validation.
+- 🔹 [mobile-nda-app](#) — Mobile fintech app (under NDA): validated API flows, analytics event tracking, and error handling for loan operations across iOS and Android.
+- 🔹 [horoscope-content-platform](#) — Astrology SaaS platform: tested subscription payments, UI flows, and localization logic. Automated smoke tests for key web flows.
 
 > Each repo will be published gradually. All projects are based on real QA experience with real cases and structured documentation.
 
