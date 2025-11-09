@@ -1,9 +1,8 @@
-# Hey, I’m Pavel — QA Automation Engineer 🔍
+# Привет, я Павел — QA Automation Engineer 🔍
 
-QA Engineer with 4 years of experience in testing web services and APIs.
-Combine manual testing with automation using the Java stack.
-Participated in configuring CI/CD and integrating automated tests, helping to stabilize regressions and speed up releases.
-Additionally, develop personal side projects in Python to enhance skills in test automation and backend logic understanding.
+QA-инженер с 4-летним опытом тестирования веб-сервисов и API.
+Совмещаю ручное тестирование с автоматизацией на стеке Java.
+Участвовал в настройке CI/CD и интеграции автотестов, что помогло стабилизировать регрессию и ускорить релизы.
 
 ---
 
