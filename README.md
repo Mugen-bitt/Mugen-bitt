@@ -19,13 +19,13 @@ QA-инженер с 4-летним опытом тестирования веб
 ---
 
 ## 📂 My Projects:
-- 🔷 [fintech-web-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-web-mobile-qa-demo) — Loan management platform: tested core credit flows — creation, repayment, and analytics events. Used Postman, Rest Assured, Allure, and log validation for backend APIs.
-- 🔹 [marketplace-skin-trading-qa](#) — Gaming asset trading marketplace (CS2/Dota2): verified transaction logic, wallet operations, and localization for CN region. Focused on API integrity and fraud prevention.
-- 🔹 [saas-docflow-testing](#) — Enterprise SaaS platform integrated with 1C: tested API queues, document exchange, and edge cases. Used Swagger, Postman, and SQL for backend data validation.
-- 🔹 [mobile-nda-app](#) — Mobile fintech app (under NDA): validated API flows, analytics event tracking, and error handling for loan operations across iOS and Android.
-- 🔹 [horoscope-content-platform](#) — Astrology SaaS platform: tested subscription payments, UI flows, and localization logic. Automated smoke tests for key web flows.
+- 🔷 [fintech-web-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-web-mobile-qa-demo) — Платформа управления займами: тестировал ключевые кредитные потоки — создание, погашение и аналитические события. Использовал Postman, Rest Assured, Allure и проверку логов для backend API.
+- 🔹 [marketplace-skin-trading-qa](#) — Маркетплейс игровых предметов (CS2/Dota2): проверял логику транзакций, работу кошельков и локализацию для китайского региона. Основное внимание — целостность API и предотвращение мошенничества.
+- 🔹 [saas-docflow-testing](#) — Корпоративная SaaS-платформа с интеграцией 1С: тестировал очереди API, обмен документами и граничные случаи. Использовал Swagger, Postman и SQL для валидации данных на backend.
+- 🔹 [mobile-nda-app](#) — Мобильное финтех-приложение (под NDA): проверял API-потоки, отслеживание аналитических событий и обработку ошибок в операциях с займами на iOS и Android.
+- 🔹 [horoscope-content-platform](#) — Астрологическая SaaS-платформа: тестировал оплату подписок, UI-потоки и логику локализации. Автоматизировал smoke-тесты для ключевых web-сценариев.
 
-> Each repo will be published gradually. All projects are based on real QA experience with real cases and structured documentation.
+> Каждый репозиторий будет публиковаться постепенно. Все проекты основаны на реальном QA-опыте с реальными кейсами и структурированной документацией.
 
 ---
 
@@ -34,4 +34,4 @@ QA-инженер с 4-летним опытом тестирования веб
 - Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
 - LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
 
-⚠️ Note: This repository is a work in progress. Some parts may be incomplete or missing documentation.
+⚠️ Примечание: Репозиторий находится в процессе наполнения. Некоторые части могут быть незавершены или без документации.
