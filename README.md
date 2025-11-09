@@ -1,4 +1,4 @@
-# Hey, I’m Pavel — QA Engineer 🔍
+# Hey, I’m Pavel — QA Automation Engineer 🔍
 
 QA Engineer with 4 years of experience in testing web services and APIs.
 Combine manual testing with automation using the Java stack.
