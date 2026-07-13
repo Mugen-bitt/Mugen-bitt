@@ -12,13 +12,13 @@ QA Automation Engineer with 4 years of experience testing web services and APIs,
 ---
 
 ## 🧰 Skills & Tools:
-	•	Testing: Web (UI/API), Regression, Smoke, Integration, End-to-End
-    •	Automation: Playwright, TypeScript, Java, Selenide, Selenium, RestAssured, JUnit5, TestNG, Appium, Allure TestOps
-    •	API & Tools: Postman, Swagger/OpenAPI, DevTools, Charles Proxy, Fiddler
-    •	CI/CD & Infra: GitLab CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes, AWS
-    •	Databases: PostgreSQL, MySQL, MongoDB, Kafka, RabbitMQ, SQL, DBeaver
-    •	Tools: Git, Jira, TestRail, WebSocket
-    •	Methodologies: Agile/Scrum, CI/CD, Shift-left
+	•	**Testing**: Web (UI/API), Regression, Smoke, Integration, End-to-End
+    •	**Automation**: Playwright, TypeScript, Java, Selenide, Selenium, RestAssured, JUnit5, TestNG, Appium, Allure TestOps
+    •	**API & Tools**: Postman, Swagger/OpenAPI, DevTools, Charles Proxy, Fiddler
+    •	**CI/CD & Infra**: GitLab CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes, AWS
+    •	**Databases**: PostgreSQL, MySQL, MongoDB, Kafka, RabbitMQ, SQL, DBeaver
+    •	**Tools**: Git, Jira, TestRail, WebSocket
+    •	**Methodologies**: Agile/Scrum, CI/CD, Shift-left
 
 ---
 
