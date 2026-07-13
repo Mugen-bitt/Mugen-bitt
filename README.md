@@ -29,18 +29,19 @@ QA-инженер с 4-летним опытом тестирования веб
 
 ---
 
-## 📬 Contact Me:
-- Telegram: [@mugen_s](https://t.me/mugen_s)
-- Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
-- LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
-
----
-
 ## 🤝 Principles & Approach
 In my projects, I adhere to key software development and testing principles:
 - Clean Code & SOLID: Writing maintainable, readable, and scalable test code.
 - DRY: Actively using helper functions and base classes to avoid code duplication.
 - Continuous Integration: Automating test execution through CI/CD pipelines (Jenkins, GitHub Actions).
 - Allure Reporting: Generating detailed and informative reports for test execution analysis.
+
+---
+
+## 📬 Contact Me:
+- Telegram: [@mugen_s](https://t.me/mugen_s)
+- Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
+- LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
+
 
 ⚠️ Примечание: Репозиторий находится в процессе наполнения. Некоторые части могут быть незавершены или без документации.
