@@ -24,14 +24,14 @@ QA Automation Engineer with 4 years of experience testing web services and APIs,
 
 ## 🤝 Principles & Approach
 In my projects, I adhere to key software development and testing principles:
-•	Clean Code & SOLID: Writing maintainable, readable, and scalable test code.
-•	DRY: Actively using helper functions and base classes to avoid code duplication.
-•	Continuous Integration: Automating test execution through CI/CD pipelines (Jenkins, GitHub Actions).
-•	Allure Reporting: Generating detailed and informative reports for test execution analysis.
+    •	Clean Code & SOLID: Writing maintainable, readable, and scalable test code.
+    •	DRY: Actively using helper functions and base classes to avoid code duplication.
+    •	Continuous Integration: Automating test execution through CI/CD pipelines (Jenkins, GitHub Actions).
+    •	Allure Reporting: Generating detailed and informative reports for test execution analysis.
 
 ---
 
 ## 📬 Contact Me:
-•	Telegram: [@mugen_s](https://t.me/mugen_s)
-•	Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
-•	LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
+    •	Telegram: [@mugen_s](https://t.me/mugen_s)
+    •	Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
+    •	LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
