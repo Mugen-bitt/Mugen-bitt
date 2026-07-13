@@ -20,7 +20,7 @@ QA-инженер с 4-летним опытом тестирования веб
 
 ## 📂 My Projects:
 - 🔷 [fintech-web-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-web-mobile-qa-demo) — Loan management platform: tested core lending flows — origination, repayment, and analytics events. Used Postman, Rest Assured, Allure, and backend log verification for API validation.
-- 🔹 [playwright-docflow-api-tests](#) — API test automation framework (Playwright + TypeScript) for a SaaS document-generation & template management platform. Layered architecture, Allure reporting, GitLab CI/CD integration.
+- 🔹 [playwright-docflow-api-tests](https://github.com/Mugen-bitt/playwright-docflow-api-tests) — API test automation framework (Playwright + TypeScript) for a SaaS document-generation & template management platform. Layered architecture, Allure reporting, GitLab CI/CD integration.
 - 🔹 [saas-document-automation-qa](#) — QA automation demo for a SaaS document-generation platform: API contract tests (Playwright + TypeScript), template validation, Allure reports, CI/CD pipeline.
 
 > Каждый репозиторий будет публиковаться постепенно. Все проекты основаны на реальном QA-опыте с реальными кейсами и структурированной документацией.
