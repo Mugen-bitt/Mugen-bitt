@@ -23,7 +23,6 @@ QA Automation Engineer with 4 years of experience testing web services and APIs,
 ---
 
 ## 🤝 Principles & Approach
-In my projects, I adhere to key software development and testing principles:
     •	Clean Code & SOLID: Writing maintainable, readable, and scalable test code.
     •	DRY: Actively using helper functions and base classes to avoid code duplication.
     •	Continuous Integration: Automating test execution through CI/CD pipelines (Jenkins, GitHub Actions).
