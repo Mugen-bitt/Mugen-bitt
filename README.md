@@ -19,11 +19,9 @@ QA-инженер с 4-летним опытом тестирования веб
 ---
 
 ## 📂 My Projects:
-- 🔷 [fintech-web-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-web-mobile-qa-demo) — Платформа управления займами: тестировал ключевые кредитные потоки — создание, погашение и аналитические события. Использовал Postman, Rest Assured, Allure и проверку логов для backend API.
-- 🔹 [marketplace-skin-trading-qa](#) — Маркетплейс игровых предметов (CS2/Dota2): проверял логику транзакций, работу кошельков и локализацию для китайского региона. Основное внимание — целостность API и предотвращение мошенничества.
-- 🔹 [saas-docflow-testing](#) — Корпоративная SaaS-платформа с интеграцией 1С: тестировал очереди API, обмен документами и граничные случаи. Использовал Swagger, Postman и SQL для валидации данных на backend.
-- 🔹 [mobile-nda-app](#) — Мобильное финтех-приложение (под NDA): проверял API-потоки, отслеживание аналитических событий и обработку ошибок в операциях с займами на iOS и Android.
-- 🔹 [horoscope-content-platform](#) — Астрологическая SaaS-платформа: тестировал оплату подписок, UI-потоки и логику локализации. Автоматизировал smoke-тесты для ключевых web-сценариев.
+- 🔷 [fintech-web-mobile-qa-demo](https://github.com/Mugen-bitt/fintech-web-mobile-qa-demo) — Loan management platform: tested core lending flows — origination, repayment, and analytics events. Used Postman, Rest Assured, Allure, and backend log verification for API validation.
+- 🔹 [playwright-docflow-api-tests](#) — API test automation framework (Playwright + TypeScript) for a SaaS document-generation & template management platform. Layered architecture, Allure reporting, GitLab CI/CD integration.
+- 🔹 [saas-document-automation-qa](#) — QA automation demo for a SaaS document-generation platform: API contract tests (Playwright + TypeScript), template validation, Allure reports, CI/CD pipeline.
 
 > Каждый репозиторий будет публиковаться постепенно. Все проекты основаны на реальном QA-опыте с реальными кейсами и структурированной документацией.
 
