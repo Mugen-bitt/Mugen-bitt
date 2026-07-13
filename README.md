@@ -2,6 +2,10 @@
 
 QA Automation Engineer with 4 years of experience testing web services and APIs, 1+ year focused on Playwright/TypeScript. Combine hands-on test automation with CI/CD ownership — building test frameworks from scratch, stabilizing flaky suites, and cutting regression time across FinTech, marketplace, and SaaS platforms.
 
+* 🔭 I'm currently working on API test automation frameworks (Playwright + TypeScript) for SaaS platforms
+* 🌱 I'm expanding into cloud fundamentals (AWS) and BDD practices
+* 👯 I'm looking to collaborate on Playwright-based test automation projects
+* 💬 Ask me about Playwright, API testing, Allure reporting, and CI/CD for test automation
 ---
 
 ## 📂 My Projects:
