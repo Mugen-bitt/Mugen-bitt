@@ -31,6 +31,6 @@ QA Automation Engineer with 4 years of experience testing web services and APIs,
 ---
 
 ## 📬 Contact Me:
-Telegram: [@mugen_s](https://t.me/mugen_s)
-Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
-LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
+- Telegram: [@mugen_s](https://t.me/mugen_s)
+- Email: [pavelupp@gmail.com](mailto:pavelupp@gmail.com)
+- LinkedIn: [Pavel Evstigneev](https://www.linkedin.com/in/pavel-evstigneev)
